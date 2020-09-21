@@ -18,6 +18,7 @@ public class App
     	Log.warn(message+" Warn Message");
     	Log.error(message+" Error Message");
     	Log.fatal(message+" Fatal Message");
+	System.out.println("Hello Java");
         System.out.println( message );
     }
 }
