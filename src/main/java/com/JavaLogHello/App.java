@@ -13,7 +13,7 @@ public class App
     {
     	
     	String message="Hello World!!!";
-    	//Log.debug(message+" Debug Message");
+    	Log.debug(message+" Debug Message");
     	Log.info(message+" Info Message");
     	Log.warn(message+" Warn Message");
     	Log.error(message+" Error Message");
